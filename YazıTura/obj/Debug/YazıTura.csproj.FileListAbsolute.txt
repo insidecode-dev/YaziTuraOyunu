@@ -1,0 +1,11 @@
+C:\Users\Admino\source\repos\Windows Forms App\YazıTura\YazıTura\bin\Debug\YazıTura.exe.config
+C:\Users\Admino\source\repos\Windows Forms App\YazıTura\YazıTura\bin\Debug\YazıTura.exe
+C:\Users\Admino\source\repos\Windows Forms App\YazıTura\YazıTura\bin\Debug\YazıTura.pdb
+C:\Users\Admino\source\repos\Windows Forms App\YazıTura\YazıTura\obj\Debug\YazıTura.csproj.AssemblyReference.cache
+C:\Users\Admino\source\repos\Windows Forms App\YazıTura\YazıTura\obj\Debug\YazıTura.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admino\source\repos\Windows Forms App\YazıTura\YazıTura\obj\Debug\YazıTura.Form1.resources
+C:\Users\Admino\source\repos\Windows Forms App\YazıTura\YazıTura\obj\Debug\YazıTura.Properties.Resources.resources
+C:\Users\Admino\source\repos\Windows Forms App\YazıTura\YazıTura\obj\Debug\YazıTura.csproj.GenerateResource.cache
+C:\Users\Admino\source\repos\Windows Forms App\YazıTura\YazıTura\obj\Debug\YazıTura.csproj.CoreCompileInputs.cache
+C:\Users\Admino\source\repos\Windows Forms App\YazıTura\YazıTura\obj\Debug\YazıTura.exe
+C:\Users\Admino\source\repos\Windows Forms App\YazıTura\YazıTura\obj\Debug\YazıTura.pdb
