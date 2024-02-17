@@ -34,6 +34,6 @@ namespace YazıTura
             MessageBox.Show("You win !", "Congrats");
         }
 
-
+        
     }
 }
